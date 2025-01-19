@@ -1,2 +1,2 @@
 # README
-I am a belgian student studying siences.
+I am a student studying siences.
